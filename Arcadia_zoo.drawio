@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T09:39:41.029Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4ow3JO9cPB2FiaKdxHUI" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T10:43:46.467Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="o4l6MmbphqJsogvjTnCE" version="24.1.0" type="github">
   <diagram name="Page-1" id="oCPFAEqfmWYbWS78uVZk">
-    <mxGraphModel dx="1195" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,14 +208,14 @@
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-35" value="Voir les services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-2">
           <mxGeometry x="145" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-34" value="Prendre contact avec le zoo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-2">
-          <mxGeometry x="115" y="130" width="170" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-34" value="Contacter le Zoo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-2">
+          <mxGeometry x="145" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-38" value="Envoyer un avis qui sera valider par l&#39;employé" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-2">
-          <mxGeometry x="65" y="160" width="270" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-38" value="Envoyer un avis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-2">
+          <mxGeometry x="145" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-3" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="40" width="400" height="320" as="geometry" />
+          <mxGeometry x="960" y="40" width="400" height="340" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-10" value="Créer un compte vétérinaire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
           <mxGeometry x="125" y="70" width="170" height="30" as="geometry" />
@@ -235,20 +235,23 @@
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-12" value="Gérer les horaires" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
           <mxGeometry x="150" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-16" value="Acceder au dashboard des consultations des animaux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
-          <mxGeometry x="55" y="280" width="310" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-16" value="Acceder aux consultations des animaux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
+          <mxGeometry x="95" y="310" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-15" value="Acceder aux comptes rendus du vétérinaire avec des filtres" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
-          <mxGeometry x="40" y="250" width="340" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-15" value="Acceder aux comptes rendus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
+          <mxGeometry x="120" y="250" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-18" value="Créer un compte pour José" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
           <mxGeometry x="125" y="100" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-39" value="Filtrer les comptes rendus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-3">
+          <mxGeometry x="130" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-5" value="Employé" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="240" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-22" value="Valider un commentaire d&#39;un visiteur avant affichage sur le site" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-5">
-          <mxGeometry x="20" y="40" width="360" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-22" value="Valider un avis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-5">
+          <mxGeometry x="150" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-21" value="Gérer les services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-5">
           <mxGeometry x="140" y="70" width="120" height="30" as="geometry" />
@@ -265,20 +268,14 @@
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-17" value="Saisir des informations sur un animal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-6">
           <mxGeometry x="90" y="40" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-29" value="Mettre un commentaire sur les habitats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-6">
-          <mxGeometry x="85" y="100" width="230" height="30" as="geometry" />
+        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-29" value="Commenter un habitat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-6">
+          <mxGeometry x="130" y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-28" value="Saisir des comptes rendus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-6">
           <mxGeometry x="120" y="70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-33" value="Accéder aux données des animaux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="XN0v3gJz0Hpq_Vf9HfFB-6">
           <mxGeometry x="95" y="130" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-25" value="Gérer les animaux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="790" y="1120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XN0v3gJz0Hpq_Vf9HfFB-36" value="Gérer les animaux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="650" y="1120" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
